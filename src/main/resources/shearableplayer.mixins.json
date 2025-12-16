@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"package": "orca.shearable_players.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+      "ShearsMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}
