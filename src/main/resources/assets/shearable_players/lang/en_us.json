@@ -1,4 +1,6 @@
 {
+	"text.config.shearable-players-config.title":		"Shearable Players Config",
+
 	"text.config.shearable-players-config.option.requireSneaking":								"Sneaking Requirement",
 	"text.config.shearable-players-config.option.requireSneaking.value.ignore":					"Ignore",
 	"text.config.shearable-players-config.option.requireSneaking.value.not_sneaking":			"Not Sneaking",
