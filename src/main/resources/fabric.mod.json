@@ -1,32 +1,32 @@
 {
 	"schemaVersion": 1,
-	"id": "shearableplayer",
+	"id": "shearable_players",
 	"version": "${version}",
-	"name": "ShearablePlayer",
+	"name": "Shearable Players",
 	"description": "Shear players to remove their armor",
 	"authors": [
 		"Orca Design"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "SMPArchive.net",
+		"sources": "https://github.com/SMPArchive/ShearablePlayers"
 	},
-	"license": "CC0-1.0",
-	"icon": "assets/shearableplayer/icon.png",
+	"license": "GPL v3",
+	"icon": "assets/shearable_players/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
+			"orca.shearable_players.ShearablePlayers"
 		],
 		"client": []
 	},
-	"mixins": [],
+	"mixins": [
+		"shearable_players.mixins.json"
+	],
 	"depends": {
 		"fabricloader": ">=0.18.2",
 		"minecraft": "~1.21.4",
 		"java": ">=21",
 		"fabric-api": "*"
-	},
-	"suggests": {
-		"another-mod": "*"
 	}
 }
