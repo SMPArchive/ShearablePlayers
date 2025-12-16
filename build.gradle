@@ -22,9 +22,8 @@ loom {
 	splitEnvironmentSourceSets()
 
 	mods {
-		"shearableplayer" {
+		"shearable_players" {
 			sourceSet sourceSets.main
-			sourceSet sourceSets.client
 		}
 	}
 
