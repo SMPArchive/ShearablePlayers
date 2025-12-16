@@ -1,3 +1,5 @@
+<img src="src/main/resources/assets/shearable_players/icon.png" alt="icon.png" align="right" width="128px">
+
 # **ShearablePlayers**
 A Minecraft mod which allows players to remove Curse of Binding enchanted items from other players using shears.
 ---
