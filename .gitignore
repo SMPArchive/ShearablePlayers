@@ -38,5 +38,3 @@ hs_err_*.log
 replay_*.log
 *.hprof
 *.jfr
-src/main/resources/assets/shearable_players/icon_temp.png
-src/main/resources/assets/shearable_players/icon.xcf

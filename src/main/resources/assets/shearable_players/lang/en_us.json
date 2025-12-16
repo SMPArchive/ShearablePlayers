@@ -1,0 +1,24 @@
+{
+	"text.config.shearable-players-config.option.requireSneaking":								"Sneaking Requirement",
+	"text.config.shearable-players-config.option.requireSneaking.value.ignore":					"Ignore",
+	"text.config.shearable-players-config.option.requireSneaking.value.not_sneaking":			"Not Sneaking",
+	"text.config.shearable-players-config.option.requireSneaking.value.require_sneaking":		"Sneaking",
+
+	"text.config.shearable-players-config.option.validToShear":									"Shearable Items",
+	"text.config.shearable-players-config.option.validToShear.value.pumpkin":					"Only Carved Pumpkins",
+	"text.config.shearable-players-config.option.validToShear.value.no_durability":				"Only Unbreakable",
+	"text.config.shearable-players-config.option.validToShear.value.any":						"Any Armor",
+
+	"text.config.shearable-players-config.option.requireBinding":								"Curse of Binding Requirement",
+	"text.config.shearable-players-config.option.requireBinding.value.ignore":					"Ignore",
+	"text.config.shearable-players-config.option.requireBinding.value.require":					"Require Cursed",
+	"text.config.shearable-players-config.option.requireBinding.value.require_no_curse":		"Require Not Cursed",
+
+	"text.config.shearable-players-config.option.itemDropRule":									"Item dropping rule",
+	"text.config.shearable-players-config.option.itemDropRule.value.always_drop":				"Always drop",
+	"text.config.shearable-players-config.option.itemDropRule.value.try_inventory_then_drop":	"Give Player or Drop",
+	"text.config.shearable-players-config.option.itemDropRule.value.cancel_instead_of_drop":	"Give Player or Cancel",
+
+
+	"text.config.shearable-players-config.option.vanishIfCursed": "Item should vanish if it has Curse of Vanishing"
+}
